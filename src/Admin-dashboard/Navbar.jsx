@@ -1,10 +1,4 @@
-import {
-    Bell,
-    ChevronDown,
-    Menu,
-    Search,
-    X,
-} from "lucide-react";
+import { Bell, ChevronDown, Menu,Search,X} from "lucide-react";
 
 export const DashboardNavbar = ({ sidebarOpen, setSidebarOpen, search, setSearch }) => {
     return (
