@@ -1,17 +1,5 @@
 import { motion, AnimatePresence } from "framer-motion";
-import {
-    ArrowRight,
-    BarChart3,
-    Bell,
-    FolderKanban,
-    LayoutDashboard,
-    LogOut,
-    Settings,
-    Users,
-    X,
-    DollarSign,
-    ClipboardList,
-} from "lucide-react";
+import {ArrowRight, BarChart3,Bell,FolderKanban,LayoutDashboard,LogOut,Settings, Users, X,DollarSign,ClipboardList} from "lucide-react";
 
 export const DashboardSideBar = ({ sidebarOpen, setSidebarOpen }) => {
     return (
