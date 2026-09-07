@@ -1,10 +1,9 @@
 import { DashboardLayout } from "./Admin-dashboard/DashboardLayout"
 
-
 function App() {
   return (
     <section>
-      <DashboardLayout/>
+      <DashboardLayout />
     </section>
   )
 }

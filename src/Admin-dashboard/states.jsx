@@ -1,9 +1,4 @@
-import {
-    Users,
-    DollarSign,
-    FolderKanban,
-    ClipboardList,
-} from "lucide-react";
+import {Users,DollarSign,FolderKanban,ClipboardList} from "lucide-react";
 
 export const AdminStates = () => {
     const state = [

@@ -1,10 +1,4 @@
-import {
-    UserPlus,
-    FolderKanban,
-    ShoppingCart,
-    CreditCard,
-    ChevronRight,
-} from "lucide-react";
+import { UserPlus,FolderKanban,ShoppingCart,CreditCard,ChevronRight} from "lucide-react";
 
 export const RecentActivity = () => {
     const activities = [
